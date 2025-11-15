@@ -10,4 +10,4 @@
 * sg_tags(optional) - tags to be given
 
 ## output
-*sg_id - id of the the security group created  
+* sg_id - id of the the security group created  
